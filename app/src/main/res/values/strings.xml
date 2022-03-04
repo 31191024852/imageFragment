@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">imageFragment</string>
+    <string name="quaylai">Quay Lại</string>
+    <string name="todo">TODO</string>
+</resources>
